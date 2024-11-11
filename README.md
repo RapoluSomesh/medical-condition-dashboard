@@ -1,0 +1,1 @@
+This is simple power bi dashboard , the title is medical condition, in this dashboard i showed how many person affected by diabetics, cancer, pneumonia conditions and based on the gender and their ages. and this data is a randomly taken by the Kaggle website
